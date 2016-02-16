@@ -25,7 +25,7 @@ In the [GitHub Desktop app][]:
  
 Ok...  You are now free to make and test changes to the files in the local directory with your favorate Editor or IDE.
 
-Once your changes are complete and all your tests have passed...  In the GitHub desktop app:
+Once your changes are complete and all your tests have passed...  In the [GitHub Desktop app][]:
 * Add a comment to the Commit
 * Click the "__Commit to <new branch>__" button (NOT to Master!”)
 * Click the "__Pull Request__" button
