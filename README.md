@@ -12,7 +12,8 @@ In your web browser:
 
 In the [GitHub Desktop app][]:
 * In the Open Dialog:
-  * Make a user folder to match the GitHub username of the repo owner -- This is _optional_ but it does make it easier to find things later on
+  * Make a "__New Folder__" with a name to match the GitHub username of the repo owner
+    * This is _optional_ but later on it will make things much easier to find
   * "__Save__" fork into user folder
 * Click the "__Sync__" button (this is super important!!)
 * Click the "__Add a branch__" button (this is super important!!) with a name appropriate to the kind of changes you intend to make
