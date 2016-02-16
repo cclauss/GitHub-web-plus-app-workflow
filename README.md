@@ -24,7 +24,7 @@ In the [GitHub Desktop app][]:
 * Click the "__Add a branch__" button (this is super important!!) with a name appropriate to the kind of changes you intend to make
 * Click the "__Update from master__" button (this is super important!!)
  
-Ok...  You are now free to make and test changes to the files in the local directory with your favorate Editor or IDE.
+Ok...  You are now free to make and test changes to the files in the local directory with your favorite Editor or IDE.
 
 Once your changes are complete and all your tests have passed...  In the [GitHub Desktop app][]:
 * Add a comment to the Commit
