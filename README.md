@@ -7,7 +7,7 @@ These instructions should help when you want to contribute Pull Requests to a Gi
 I will assume that you have:
 * a working webbrowser
 * a GitHub ID
-* [GetHub Desktop app][] installed and configured with your GitHub ID.
+* [GitHub Desktop app][] installed and configured with your GitHub ID.
 
 In your web browser:
 * Navigate to the [GitHub webpage][] of a repo that you want to contribute to
