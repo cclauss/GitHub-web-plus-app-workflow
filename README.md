@@ -1,5 +1,5 @@
 # GitHub-web-plus-app-workflow
-My GitHub workflow for working on other people's repos.  These instructions help when you want to contribute Pull Requests to a GitHub repository that you do not have write access to.  It goes thru the step-by-step process for using the [http://github.com][] website and the [GitHub Desktop app] to make a local __Fork__ of the repository and then make code or documentation changes and then __Commit__ those changes and send a __Pull Request_ to the repo's owner.  Tha approach here is just to use the web pages and the app and not use the git commandline commands which I find difficult to use.
+My GitHub workflow for working on other people's repos.  These instructions help when you want to contribute Pull Requests to a GitHub repository that you do not have write access to.  It goes thru the step-by-step process for using the http://github.com website and the [GitHub Desktop app] to make a local __Fork__ of the repository and then make code or documentation changes and then __Commit__ those changes and send a __Pull Request_ to the repo's owner.  Tha approach here is just to use the web pages and the app and not use the git commandline commands which I find difficult to use.
 
 I will assume that you have a GitHub ID, working webbrowser and the GetHub Desktop app installed and configured with your GitHub ID.
 
