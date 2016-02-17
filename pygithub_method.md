@@ -5,7 +5,7 @@ Here is a workflow making use of [pygithub](https://github.com/PyGitHub/PyGithub
 ```python
 from github import Github
 g = Github(user,pass)   #or, g=Github(token) where token is personal Oauth token
-u= g.get_user()
+u = g.get_user()
 my_new_repo=u.create_repo('new_repo')
 # then use stash to pull from github.
 ```
@@ -14,7 +14,7 @@ my_new_repo=u.create_repo('new_repo')
 
 ```python
 other_repo = g.get_repo('cclauss/GitHub-web-plus-app-workflow')
-mine=u.fork_repo(other_repo)
+mine = u.fork_repo(other_repo)
 ```
 
 3) Create a pull request (after using stash to push to your own github)
