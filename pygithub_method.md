@@ -6,7 +6,7 @@ Here is a workflow making use of [pygithub](https://github.com/PyGitHub/PyGithub
 from github import Github
 g = Github(user,pass)   #or, g=Github(token) where token is personal Oauth token
 u = g.get_user()
-my_new_repo=u.create_repo('new_repo')
+my_new_repo = u.create_repo('new_repo')
 # then use stash to pull from github.
 ```
 
