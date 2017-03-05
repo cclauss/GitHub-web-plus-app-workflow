@@ -14,7 +14,7 @@ my_new_repo = u.create_repo('new_repo')
 
 ```python
 other_repo = g.get_repo('cclauss/GitHub-web-plus-app-workflow')
-mine = u.fork_repo(other_repo)
+mine = u.create_fork(other_repo)
 ```
 
 3) Create a pull request (after using stash to push to your own github)
